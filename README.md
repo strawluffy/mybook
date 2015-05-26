@@ -9,10 +9,8 @@
 | -- | -- |
 | 第二行 | [百度](http://www.baidu.com) |
 
-    
-    
-1. 
-1. 
-
-* 
+```
+#！/usr/bin/env python
+print 'hello,world'
+```
 
