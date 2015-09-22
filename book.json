@@ -1,7 +1,7 @@
 {
     "structure": {
         "readme": "myIntro.md"
-    }
+    },
     "variables": {
         "ccname": "xiaocui"
     }
