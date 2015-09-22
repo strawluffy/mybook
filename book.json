@@ -1,8 +1,8 @@
 {
-"structure": {
-"readme": "myIntro.md"
-}
-"variables": {
-    "ccname":"xiaocui"
-}
+    "structure": {
+        "readme": "myIntro.md"
+    }
+    "variables": {
+        "ccname": "xiaocui"
+    }
 }
