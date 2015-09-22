@@ -2,4 +2,7 @@
 "structure": {
 "readme": "myIntro.md"
 }
+"variables":{
+    "name":"xiaocui"
+}
 }
