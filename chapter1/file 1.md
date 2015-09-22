@@ -1,5 +1,5 @@
 
-book: {{ book.name }}
+book: {{ book.ccname }}
 
 ---
 ***
