@@ -1,13 +1,14 @@
 
 boo1k: {{ book.ccname }}
 ***
+
 file: {{ file.path }}
 file: {{ file.mtime }}
 
 ---
 ***
 ___
-
+page1:{{ book.page1.age }}
 
 
 <dl>
