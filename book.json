@@ -3,6 +3,9 @@
         "readme": "myIntro.md"
     },
     "variables": {
-        "ccname": "xiaocui"
+        "ccname": "xiaocui",
+        "page1":{
+            "age":"18"
+        }
     }
 }
