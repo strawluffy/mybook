@@ -2,6 +2,7 @@
 boo1k: {{ book.ccname }}
 ***
 file: {{ file.path }}
+file: {{ file.mtime }}
 
 ---
 ***
