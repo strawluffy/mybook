@@ -11,6 +11,6 @@
 
 ```
 #！/usr/bin/env python
-print 'hello,wor重中之重ld'
+print 'hello,world'
 ```
 
