@@ -2,7 +2,7 @@
 **forexample**
 
 {% for cc in book.cc %}
-    cc.name
+    {{ cc.name }}
 {% endfor %}
 
 **if example** <br>
