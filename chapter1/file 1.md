@@ -1,4 +1,4 @@
-{% extends "./chapter4.md" %}
+{% extends "../chapter4.md" %}
 **inheritances**
 {% block cuizz %}
 
