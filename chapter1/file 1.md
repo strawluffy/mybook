@@ -1,4 +1,11 @@
 
+**forexample**
+
+{% for cc in book.cc %}
+    cc.name
+{% endfor %}
+
+**if example** <br>
 {% if book.ccnazme %}
     ok
 {% else %}
