@@ -6,4 +6,5 @@
 
 {% endblock %}
 
-{% block %}
+{% block cuizz1 %}
+{% endblock %}
