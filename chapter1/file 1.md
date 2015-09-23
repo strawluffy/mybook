@@ -1,5 +1,5 @@
 {% extends "chapter.md" %}
-**inheritance**
+**inheritances**
 {% block cuizz %}
 
     file1.md
