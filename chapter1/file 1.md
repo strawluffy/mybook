@@ -1,3 +1,13 @@
+**inheritance**
+
+{% extend "chapter.md" %}
+{% block cuizz %}
+
+    file1.md
+
+{% endblock%}
+
+***
 **include**
 
 {% include "../book.json" %}
