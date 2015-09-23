@@ -6,6 +6,11 @@
     file1.md
 {% endblock %}
 
+{% block cuizz1 %}
+
+    你好
+
+{% endblock %}
 
 
 ***
