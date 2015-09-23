@@ -1,5 +1,5 @@
 
-{% if book.ccname %}
+{% if book.ccnazme %}
     ok
 {% else %}
     no ok
