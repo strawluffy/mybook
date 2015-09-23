@@ -1,6 +1,6 @@
 **inheritance**
 
-{% extend "chapter.md" %}
+{% extends "chapter.md" %}
 {% block cuizz %}
 
     file1.md
