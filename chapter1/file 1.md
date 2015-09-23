@@ -2,16 +2,19 @@
 {% extends "../chapter4.md" %}
 
 {% block cuizz %}
-    zzz
+    zzz111
     file1.md
 
 {% endblock %}
+
+{% block cuizz1 %}
 
 ***
 **include**
 
 {% include "../book.json" %}
 
+{ endblock }
 ***
 
 **forexample**
