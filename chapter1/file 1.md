@@ -1,4 +1,10 @@
 
+{% if book.ccname %}
+    ok
+{% else %}
+    no ok
+{% endif %}
+
 boo1k: {{ book.ccname }}
 ***
 
