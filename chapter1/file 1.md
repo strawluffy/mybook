@@ -7,14 +7,14 @@
 
 {% endblock %}
 
-{% block cuizz1 %}
+
 
 ***
 **include**
 
 {% include "../book.json" %}
 
-{ endblock }
+
 ***
 
 **forexample**
