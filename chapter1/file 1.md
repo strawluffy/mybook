@@ -1,6 +1,9 @@
 **inheritances**
 {% extends "../chapter4.md" %}
 
+{% block cuizz %}
+mycuizz
+{% endblock }
 
 
 ***
