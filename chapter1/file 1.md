@@ -3,7 +3,7 @@
 
 {% block cuizz %}
 mycuizz
-{% endblock }
+{% endblock %}
 
 
 ***
