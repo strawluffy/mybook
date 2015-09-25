@@ -8,7 +8,7 @@
 
 {% block cuizz1 %}
 
-    你好
+    hello,world
 
 {% endblock %}
 
