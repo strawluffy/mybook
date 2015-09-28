@@ -36,4 +36,4 @@
      
             registry=http://registry.npm.taobao.org
         
-    
+    崔中政
