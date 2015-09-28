@@ -40,14 +40,14 @@
 
     从发挥的信息中我们也可以看出，需要安装Calibre这个程序，但这个程序不能使用npm来安装，需要使用apt-get install 来安装,在这个之前需要我们部署一些源：
     
->it can convert e-books between several formats. It can copy them to your e-reader and so on. 
->To install Calibre in Ubuntu 13.04, use the following commands:
+    >it can convert e-books between several formats. It can copy them to your e-reader and so on. 
+    >To install Calibre in Ubuntu 13.04, use the following commands:
 
         sudo add-apt-repository ppa:n-muench/calibre
         sudo apt-get update
         sudo apt-get install calibre
 
->Or, if you're using Ubuntu 12.04, use the commands below:
+    >Or, if you're using Ubuntu 12.04, use the commands below:
 
         sudo add-apt-repository ppa:n-muench/calibre2
         sudo apt-get update
