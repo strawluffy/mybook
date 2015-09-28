@@ -22,5 +22,18 @@
             
     *   返回下面的信息说明安装完成：
     
+        ![返回信息](../img/001.png "返回的信息")
     
-    ![百度](../img/001.png "下载")
+     需要注意的是默认情况下npm使用的是国外的源，我们可以修改为淘宝的源即可：
+     
+            npm install -g cnpm --registry=http://registry.npm.taobao.org
+    
+     也可以直接修改配置文件：
+     
+            vi /home/cuizz/.npmrc
+            
+     修改为下面的信息即可：
+     
+            registry=http://registry.npm.taobao.org
+        
+    
